@@ -11,16 +11,14 @@
   padding-bottom: 30 px;
 }
 
-/* Style console/text output */
-.cell-output pre {
+.cell-output.cell-output-stdout pre {
   background-color: #fff5e6 !important;
-  padding: 0.75em;
-  border-left: 4px solid #ffaa00;
-  border-radius: 4px;
-  color: black;
-  font-family: monospace;
+  padding: 0.75em !important;
+  border-left: 4px solid #ffaa00 !important;
+  border-radius: 4px !important;
+  color: black !important;
+  font-family: monospace !important;
 }
-
 
 .cell-output-display {
   margin-top: 0.5em; /* reduce space between code and figure */
