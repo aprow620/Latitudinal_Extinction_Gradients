@@ -6,6 +6,6 @@ dependencies:
   - quarto
   - jupyterlab
   - r-essentials
-  - r-base=4.3
+  - r-base=4.3.3
   - r-sf
 prefix: C:\Users\prowa\miniconda3\envs\lat-ext-grad

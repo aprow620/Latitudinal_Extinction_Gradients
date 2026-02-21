@@ -1,0 +1,21 @@
+**/library/
+**/local/
+**/cellar/
+**/lock/
+**/python/
+**/sandbox/
+**/staging/
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/index-checkpoint.ipynb
+**/.ipynb_checkpoints/
+*checkpoint.ipynb
+
+# Quarto output
+**/index_files/
