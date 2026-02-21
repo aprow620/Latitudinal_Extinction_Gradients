@@ -19,3 +19,5 @@
 
 # Quarto output
 **/index_files/
+
+data_files/fossil_occs_datafiles/*.csv
