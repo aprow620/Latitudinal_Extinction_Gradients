@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#Jupyter checkpoints
+.ipynb-checkpoints/
+**/.ipynb-checkpoints/
+*checkpoint.ipynb

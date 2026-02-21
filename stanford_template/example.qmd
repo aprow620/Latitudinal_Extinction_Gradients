@@ -1,0 +1,41 @@
+---
+title: "Title"
+title-block-banner: "#2E2D29"
+title-block-banner-color: "#FFFFFF"
+subtitle: "Subtitle"
+description: "Stanford Doer School of Sustainability, Paleobiology Lab"
+date: last-modified
+date-format: "YYYY-MM-DD"
+mainfont: Figtree
+sansfont: Georgia
+footnotes-hover: true
+reference-location: margin
+lang: en
+number-sections: false
+crossref:
+  chapters: true
+author:
+  - name: Mohamad Bazzi
+    orcid: 0000-0002-9495-0781
+    email: bazzi@stanford.edu
+    url: https://github.com/mohabazzi
+    affiliations:
+      - name: Stanford University
+        department: Department of Earth and Planetary Sciences
+        address: CA 94305
+        country: USA
+        url: https://sustainability.stanford.edu/
+highlight-style: pygments
+fig-cap-location: top
+format:
+  stanford-quarto-html: default
+---
+
+## Introduction
+
+This example file is authored using [quarto](https://quarto.org) and makes use of style from the Stanford graphical profile.
+
+## More Information
+
+You can learn more about controlling the appearance of HTML output here: <https://quarto.org/docs/output-formats/html-basics.html>
+
