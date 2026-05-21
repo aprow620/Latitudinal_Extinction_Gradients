@@ -17,7 +17,6 @@ There are two ways to access the Paleobiology Database data used in this study. 
 
 The fossil occurrence analyses can be found and reproduced by opening index.html from the src folder, which is accompanied by the source code 'index.ipynb' which can be opened in Jupyter lab or a texteditor. Data files can be found in the 'data_files' folder, and files for the plate reconstructions can be found in the 'georeferences_files' folder. Figures generated for publication are in the figures folder.
 
-The html rendering of the code can be accessed here: 
 
 
 This code is free to reuse. If you use this code please cite as:
@@ -25,8 +24,6 @@ This code is free to reuse. If you use this code please cite as:
 
 
 To reproduce this analysis, clone this repository and the environment following the commands.
-
-
 
 ```bash
 git clone https://github.com/aprow620/Latitudinal_Extinction_Gradients.git
