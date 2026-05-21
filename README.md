@@ -6,6 +6,8 @@ Code written and maintained by Ashley Prow Fleischer and Jood Al Aswad
 
 Contact: prowa@stanford.edu and jood@vt.edu
 
+# 
+To view the code as a webpage, please visit: [Code](https://aprow620.github.io/Latitudinal_Extinction_Gradients/)
 
 # Reproducibility Statement
 
