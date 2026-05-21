@@ -18,8 +18,8 @@ There are two ways to access the Paleobiology Database data used in this study. 
 The fossil occurrence analyses can be found and reproduced by opening index.html from the src folder, which is accompanied by the source code 'index.ipynb' which can be opened in Jupyter lab or a texteditor. Data files can be found in the 'data_files' folder, and files for the plate reconstructions can be found in the 'georeferences_files' folder. Figures generated for publication are in the figures folder.
 
 
-
-This code is free to reuse. If you use this code please cite as:
+# Please cite
+This code is free to reuse. If you use this code please cite the following doi: DOI: 10.5281/zenodo.20331804
 
 
 
