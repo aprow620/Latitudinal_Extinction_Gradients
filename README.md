@@ -19,7 +19,7 @@ The fossil occurrence analyses can be found and reproduced by opening index.html
 
 
 # Please cite
-This code is free to reuse. If you use this code please cite the following doi: DOI: 10.5281/zenodo.20331804
+This code is free to reuse. If you use this code please cite the following doi: [citation](DOI: 10.5281/zenodo.20331804)
 
 
 
