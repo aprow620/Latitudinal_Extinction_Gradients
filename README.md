@@ -11,6 +11,11 @@ Contact: prowa@stanford.edu and jood@vt.edu
 # See the code
 To view the code as a webpage, please visit: [Kellwasser Event Latitudinal_Extinction_Gradient](https://aprow620.github.io/Latitudinal_Extinction_Gradients/)
 
+
+# Please cite
+This code is free to reuse. If you use this code please cite the following doi: [![DOI](https://zenodo.org/badge/1162935747.svg)](https://doi.org/10.5281/zenodo.20331803)
+
+
 # Reproducibility Statement
 
 All codes and data used in this paper are provided here for reproducibility.
@@ -18,12 +23,6 @@ All codes and data used in this paper are provided here for reproducibility.
 There are two ways to access the Paleobiology Database data used in this study. You may either open the 'Devonian_pbdb.data.Feb2026.csv' file to access the processed fossil dataset utilized here, or if you wish to download straight from the database
 
 The fossil occurrence analyses can be found and reproduced by opening index.html from the src folder, which is accompanied by the source code 'index.ipynb' which can be opened in Jupyter lab or a texteditor. Data files can be found in the 'data_files' folder, and files for the plate reconstructions can be found in the 'georeferences_files' folder. Figures generated for publication are in the figures folder.
-
-
-# Please cite
-This code is free to reuse. If you use this code please cite the following doi: [![DOI](https://zenodo.org/badge/1162935747.svg)](https://doi.org/10.5281/zenodo.20331803)
-
-
 
 To reproduce this analysis, clone this repository and the environment following the commands.
 
