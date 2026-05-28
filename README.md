@@ -42,9 +42,11 @@ Restore R packages:
 R -e "renv::restore()"
 ```
 
-Launch the notebook:
+For jupyter lab Enable an IRkernel (this might requie aditinal steps, see : [Registering R kernel](https://github.com/irkernel/irkernel)):
 ```bash
-jupyter notebook
+install.packages('IRkernel')
+IRkernel::installspec() 
 ```
+For Rstudio, open the .qmd file.
 
 Navigate to `src/index.ipynb`.
