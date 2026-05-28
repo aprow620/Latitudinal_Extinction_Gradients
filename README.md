@@ -1,3 +1,5 @@
+
+
 # Acknowledgments
 
 This GitHub repository contains the code used to analyse all fossil datasets presented in the manuscript Prow-Fleischer et al. (in prep) 
@@ -19,7 +21,7 @@ The fossil occurrence analyses can be found and reproduced by opening index.html
 
 
 # Please cite
-This code is free to reuse. If you use this code please cite the following doi: [citation](https://zenodo.org/records/20331804))
+This code is free to reuse. If you use this code please cite the following doi: [![DOI](https://zenodo.org/badge/1162935747.svg)](https://doi.org/10.5281/zenodo.20331803)
 
 
 
