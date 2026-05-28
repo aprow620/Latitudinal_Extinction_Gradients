@@ -13,7 +13,7 @@ To view the code as a webpage, please visit: [Kellwasser Event Latitudinal_Extin
 
 
 # Please cite
-This code is free to reuse. If you use this code please cite the following doi: [![DOI](https://zenodo.org/badge/1162935747.svg)](https://doi.org/10.5281/zenodo.20331803)
+This code is free to reuse. If you use this code please cite the following doi: [[DOI](https://zenodo.org/badge/1162935747.svg)](https://doi.org/10.5281/zenodo.20331803)
 
 
 # Reproducibility Statement
